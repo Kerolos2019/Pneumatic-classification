@@ -6,7 +6,7 @@ i have used a data set from kaggle :https://www.kaggle.com/competitions/rsna-pne
 
 
 
-First of all i have done some preprocessing on the data , the images are in shape (1024*1024) , i resized it to be (224*224) because I used Resnet  . 
+First of all i have done some preprocessing on the data , the images are in shape (1024,1024) , i resized it to be (224,224) because I used Resnet  . 
 
 Second I have standardized the pixel values into the interval [0,1] , 
 
