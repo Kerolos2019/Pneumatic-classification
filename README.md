@@ -1,4 +1,4 @@
-# Pneumatic-classification
+# Pneumonia-classification
 
 here is an Pneumatic classification code implemented in pytorch ,
 
